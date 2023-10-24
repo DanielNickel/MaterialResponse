@@ -1,0 +1,422 @@
+  Activating new project at `C:\Users\said1\AppData\Local\Temp\jl_BIOVbO`
+     Cloning git-repo `https://github.com/KnutAM/Newton.jl.git`
+    Updating git-repo `https://github.com/KnutAM/Newton.jl.git`
+    Updating git-repo `https://github.com/KnutAM/MaterialModelsBase.jl.git`
+     Cloning git-repo `https://github.com/KnutAM/EduMaterialModels.jl.git`
+    Updating git-repo `https://github.com/KnutAM/EduMaterialModels.jl.git`
+   Resolving package versions...
+   Installed OffsetArrays ────────────── v1.12.10
+   Installed Xorg_libXau_jll ─────────── v1.0.11+0
+   Installed ScanByte ────────────────── v0.4.0
+   Installed Xorg_libpthread_stubs_jll ─ v0.1.1+0
+   Installed HypergeometricFunctions ─── v0.3.21
+   Installed FFTW ────────────────────── v1.7.1
+   Installed SpecialFunctions ────────── v2.3.0
+   Installed StaticArrays ────────────── v1.6.1
+   Installed StaticArraysCore ────────── v1.4.1
+   Installed ThreadingUtilities ──────── v0.5.2
+   Installed Xorg_libxcb_jll ─────────── v1.15.0+0
+   Installed Expat_jll ───────────────── v2.5.0+0
+   Installed DataStructures ──────────── v0.18.14
+   Installed Compat ──────────────────── v4.7.0
+   Installed Automa ──────────────────── v0.8.3
+   Installed Parsers ─────────────────── v2.7.1
+   Installed MKL_jll ─────────────────── v2023.1.0+0
+   Installed Xorg_xtrans_jll ─────────── v1.5.0+0
+   Installed AbstractFFTs ────────────── v1.4.0
+   Installed StrideArraysCore ────────── v0.4.17
+   Installed HostCPUFeatures ─────────── v0.1.15
+   Installed ArrayInterface ──────────── v7.4.11
+   Installed FillArrays ──────────────── v1.4.0
+   Installed LoopVectorization ───────── v0.12.163
+   Installed Xorg_libX11_jll ─────────── v1.8.6+0
+   Installed Xorg_libXdmcp_jll ───────── v1.1.4+0
+   Installed SortingAlgorithms ───────── v1.1.1
+   Installed Distributions ───────────── v0.25.98
+    Updating `C:\Users\said1\AppData\Local\Temp\jl_BIOVbO\Project.toml`
+  [13f3f980] + CairoMakie v0.10.6
+  [dc10c695] + EduMaterialModels v0.1.0 `https://github.com/KnutAM/EduMaterialModels.jl.git#main`
+  [af893363] + MaterialModelsBase v0.1.3 `https://github.com/KnutAM/MaterialModelsBase.jl.git#main`
+  [83aa5b51] + Newton v0.1.3 `https://github.com/KnutAM/Newton.jl.git#main`
+  [7f904dfe] + PlutoUI v0.7.51
+  [48a634ad] + Tensors v1.14.0
+    Updating `C:\Users\said1\AppData\Local\Temp\jl_BIOVbO\Manifest.toml`
+  [621f4979] + AbstractFFTs v1.4.0
+  [6e696c72] + AbstractPlutoDingetjes v1.1.4
+  [1520ce14] + AbstractTrees v0.4.4
+  [79e6a3ab] + Adapt v3.6.2
+  [27a7e980] + Animations v0.4.1
+  [4fba245c] + ArrayInterface v7.4.11
+  [30b0a656] + ArrayInterfaceCore v0.1.29
+  [67c07d97] + Automa v0.8.3
+  [13072b0f] + AxisAlgorithms v1.0.1
+  [39de3d68] + AxisArrays v0.4.6
+  [62783981] + BitTwiddlingConvenienceFunctions v0.1.5
+  [fa961155] + CEnum v0.4.2
+  [2a0fbf3d] + CPUSummary v0.2.3
+  [159f3aea] + Cairo v1.0.5
+  [13f3f980] + CairoMakie v0.10.6
+  [49dc2e85] + Calculus v0.5.1
+  [d360d2e6] + ChainRulesCore v1.16.0
+  [fb6a15b2] + CloseOpenIntervals v0.1.12
+  [a2cac450] + ColorBrewer v0.4.0
+  [35d6a980] + ColorSchemes v3.21.0
+  [3da002f7] + ColorTypes v0.11.4
+  [c3611d14] + ColorVectorSpace v0.9.10
+  [5ae59095] + Colors v0.12.10
+  [bbf7d656] + CommonSubexpressions v0.3.0
+  [34da2185] + Compat v4.7.0
+  [187b0558] + ConstructionBase v1.5.2
+  [d38c429a] + Contour v0.6.2
+  [adafc99b] + CpuId v0.3.1
+  [9a962f9c] + DataAPI v1.15.0
+  [864edb3b] + DataStructures v0.18.14
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [163ba53b] + DiffResults v1.1.0
+  [b552c78f] + DiffRules v1.15.1
+  [31c24e10] + Distributions v0.25.98
+  [ffbed154] + DocStringExtensions v0.9.3
+  [fa6b7ba4] + DualNumbers v0.6.8
+  [dc10c695] + EduMaterialModels v0.1.0 `https://github.com/KnutAM/EduMaterialModels.jl.git#main`
+  [411431e0] + Extents v0.1.1
+  [c87230d0] + FFMPEG v0.4.1
+  [7a1cc6ca] + FFTW v1.7.1
+  [5789e2e9] + FileIO v1.16.1
+  [1a297f60] + FillArrays v1.4.0
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [59287772] + Formatting v0.4.2
+  [f6369f11] + ForwardDiff v0.10.35
+  [b38be410] + FreeType v4.0.0
+  [663a7486] + FreeTypeAbstraction v0.10.0
+  [46192b85] + GPUArraysCore v0.1.5
+  [cf35fbd7] + GeoInterface v1.3.1
+  [5c1252a2] + GeometryBasics v0.4.7
+  [a2bd30eb] + Graphics v1.1.2
+  [3955a311] + GridLayoutBase v0.9.1
+  [42e2da0e] + Grisu v1.0.2
+  [3e5b6fbb] + HostCPUFeatures v0.1.15
+  [34004b35] + HypergeometricFunctions v0.3.21
+  [47d2ed2b] + Hyperscript v0.0.4
+  [ac1192a8] + HypertextLiteral v0.9.4
+  [b5f81e59] + IOCapture v0.2.3
+  [615f187c] + IfElse v0.1.1
+  [2803e5a7] + ImageAxes v0.6.10
+  [c817782e] + ImageBase v0.1.5
+  [a09fc81d] + ImageCore v0.9.4
+  [82e4d734] + ImageIO v0.6.6
+  [bc367c6b] + ImageMetadata v0.9.8
+  [9b13fd28] + IndirectArrays v1.0.0
+  [d25df0c9] + Inflate v0.1.3
+  [a98d9a8b] + Interpolations v0.14.7
+  [8197267c] + IntervalSets v0.7.4
+  [92d709cd] + IrrationalConstants v0.2.2
+  [f1662d9f] + Isoband v0.1.1
+  [c8e1da08] + IterTools v1.8.0
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [692b3bcd] + JLLWrappers v1.4.1
+  [682c06a0] + JSON v0.21.4
+  [b835a17e] + JpegTurbo v0.1.2
+  [5ab0869b] + KernelDensity v0.6.7
+  [b964fa9f] + LaTeXStrings v1.3.0
+  [10f19ff3] + LayoutPointers v0.1.14
+  [8cdb02fc] + LazyModules v0.3.1
+  [2ab3a3ac] + LogExpFunctions v0.3.24
+  [bdcacae8] + LoopVectorization v0.12.163
+  [6c6e2e6c] + MIMEs v0.1.4
+  [1914dd2f] + MacroTools v0.5.10
+  [ee78f7c6] + Makie v0.19.6
+  [20f20a25] + MakieCore v0.6.3
+  [d125e4d3] + ManualMemory v0.1.8
+  [dbb5928d] + MappedArrays v0.4.2
+  [7eb4fadd] + Match v1.2.0
+  [af893363] + MaterialModelsBase v0.1.3 `https://github.com/KnutAM/MaterialModelsBase.jl.git#main`
+  [0a4f8689] + MathTeXEngine v0.5.6
+  [978d7f02] + MiniQhull v0.4.0
+  [e1d29d7a] + Missings v1.1.0
+  [e94cdb99] + MosaicViews v0.3.4
+  [77ba4419] + NaNMath v1.0.2
+  [f09324ee] + Netpbm v1.1.0
+  [83aa5b51] + Newton v0.1.3 `https://github.com/KnutAM/Newton.jl.git#main`
+  [510215fc] + Observables v0.5.4
+  [6fe1bfb0] + OffsetArrays v1.12.10
+  [52e1d378] + OpenEXR v0.3.2
+  [bac558e1] + OrderedCollections v1.6.0
+  [90014a1f] + PDMats v0.11.17
+  [f57f5aa1] + PNGFiles v0.3.17
+  [19eb6ba3] + Packing v0.5.0
+  [5432bcbf] + PaddedViews v0.5.12
+  [69de0a69] + Parsers v2.7.1
+  [eebad327] + PkgVersion v0.3.2
+  [995b91a9] + PlotUtils v1.3.5
+  [7f904dfe] + PlutoUI v0.7.51
+  [f517fe37] + Polyester v0.7.3
+  [1d0040c9] + PolyesterWeave v0.2.1
+  [647866c9] + PolygonOps v0.1.2
+  [aea7be01] + PrecompileTools v1.1.2
+  [21216c6a] + Preferences v1.4.0
+  [92933f4c] + ProgressMeter v1.7.2
+  [4b34888f] + QOI v1.0.0
+  [1fd47b50] + QuadGK v2.8.2
+  [b3c3ace0] + RangeArrays v0.3.2
+  [c84ed2f1] + Ratios v0.4.5
+  [f2c3362d] + RecursiveFactorization v0.2.18
+  [189a3867] + Reexport v1.2.2
+  [05181044] + RelocatableFolders v1.0.0
+  [ae029012] + Requires v1.3.0
+  [79098fc4] + Rmath v0.7.1
+  [fdea26ae] + SIMD v3.4.5
+  [94e857df] + SIMDTypes v0.1.0
+  [476501e8] + SLEEFPirates v0.6.39
+  [7b38b023] + ScanByte v0.4.0
+  [6c6a2e73] + Scratch v1.2.0
+  [efcf1570] + Setfield v1.1.1
+  [992d4aef] + Showoff v1.0.3
+  [73760f76] + SignedDistanceFields v0.4.0
+  [699a6c99] + SimpleTraits v0.9.4
+  [45858cf5] + Sixel v0.1.2
+  [66db9d55] + SnoopPrecompile v1.0.3
+  [a2af1166] + SortingAlgorithms v1.1.1
+  [276daf66] + SpecialFunctions v2.3.0
+  [c5dd0088] + StableHashTraits v0.3.1
+  [cae243ae] + StackViews v0.1.1
+  [aedffcd0] + Static v0.8.7
+  [0d7ed370] + StaticArrayInterface v1.4.0
+  [90137ffa] + StaticArrays v1.6.1
+  [1e83bf80] + StaticArraysCore v1.4.1
+  [82ae8749] + StatsAPI v1.6.0
+  [2913bbd2] + StatsBase v0.34.0
+  [4c63d2b9] + StatsFuns v1.3.0
+  [7792a7ef] + StrideArraysCore v0.4.17
+  [09ab397b] + StructArrays v0.6.15
+  [3783bdb8] + TableTraits v1.0.1
+  [bd369af6] + Tables v1.10.1
+  [62fd8b95] + TensorCore v0.1.1
+  [48a634ad] + Tensors v1.14.0
+  [8290d209] + ThreadingUtilities v0.5.2
+  [731e570b] + TiffImages v0.6.4
+  [3bb67fe8] + TranscodingStreams v0.9.13
+  [d5829a12] + TriangularSolve v0.1.19
+  [410a4b4d] + Tricks v0.1.7
+  [981d1d27] + TriplotBase v0.1.0
+  [9d95972d] + TupleTools v1.3.0
+  [5c2747f8] + URIs v1.4.2
+  [3a884ed6] + UnPack v1.0.2
+  [1cfade01] + UnicodeFun v0.4.1
+  [3d5dd08c] + VectorizationBase v0.21.64
+  [efce3f68] + WoodburyMatrices v0.5.5
+  [6e34b625] + Bzip2_jll v1.0.8+0
+  [83423d85] + Cairo_jll v1.16.1+1
+  [5ae413db] + EarCut_jll v2.2.4+0
+  [2e619515] + Expat_jll v2.5.0+0
+  [b22a6f82] + FFMPEG_jll v4.4.2+2
+  [f5851436] + FFTW_jll v3.3.10+0
+  [a3f928ae] + Fontconfig_jll v2.13.93+0
+⌅ [d7e528f0] + FreeType2_jll v2.10.4+0
+  [559328eb] + FriBidi_jll v1.0.10+0
+  [78b55507] + Gettext_jll v0.21.0+0
+  [7746bdde] + Glib_jll v2.74.0+2
+  [3b182d85] + Graphite2_jll v1.3.14+0
+  [2e76f6c2] + HarfBuzz_jll v2.8.1+1
+  [905a6f67] + Imath_jll v3.1.7+0
+  [1d5cc7b8] + IntelOpenMP_jll v2023.1.0+0
+  [aacddb02] + JpegTurbo_jll v2.1.91+0
+  [c1c5ebd0] + LAME_jll v3.100.1+0
+  [1d63c593] + LLVMOpenMP_jll v15.0.4+0
+  [dd4b983a] + LZO_jll v2.10.1+0
+⌅ [e9f186c6] + Libffi_jll v3.2.2+1
+  [d4300ac3] + Libgcrypt_jll v1.8.7+0
+  [7add5ba3] + Libgpg_error_jll v1.42.0+0
+  [94ce4f54] + Libiconv_jll v1.16.1+2
+  [4b2f31a3] + Libmount_jll v2.35.0+0
+  [38a345b3] + Libuuid_jll v2.36.0+0
+  [856f044c] + MKL_jll v2023.1.0+0
+  [e7412a2a] + Ogg_jll v1.3.5+1
+  [18a262bb] + OpenEXR_jll v3.1.4+0
+⌅ [458c3c95] + OpenSSL_jll v1.1.21+0
+  [efe28fd5] + OpenSpecFun_jll v0.5.5+0
+  [91d4177d] + Opus_jll v1.3.2+0
+  [36c8627f] + Pango_jll v1.50.9+0
+  [30392449] + Pixman_jll v0.42.2+0
+  [460c41e3] + QhullMiniWrapper_jll v1.0.0+1
+⌅ [784f63db] + Qhull_jll v8.0.1003+0
+  [f50d1b31] + Rmath_jll v0.4.0+0
+  [02c8fc9c] + XML2_jll v2.10.3+0
+  [aed1982a] + XSLT_jll v1.1.34+0
+  [4f6342f7] + Xorg_libX11_jll v1.8.6+0
+  [0c0b7dd1] + Xorg_libXau_jll v1.0.11+0
+  [a3789734] + Xorg_libXdmcp_jll v1.1.4+0
+  [1082639a] + Xorg_libXext_jll v1.3.4+4
+  [ea2f1a96] + Xorg_libXrender_jll v0.9.10+4
+  [14d82f49] + Xorg_libpthread_stubs_jll v0.1.1+0
+  [c7cfdc94] + Xorg_libxcb_jll v1.15.0+0
+  [c5fb5394] + Xorg_xtrans_jll v1.5.0+0
+  [9a68df92] + isoband_jll v0.2.3+0
+  [a4ae2306] + libaom_jll v3.4.0+0
+  [0ac62f75] + libass_jll v0.15.1+0
+  [f638f0a6] + libfdk_aac_jll v2.0.2+0
+  [b53b4c65] + libpng_jll v1.6.38+0
+  [075b6546] + libsixel_jll v1.10.3+0
+  [f27f6e37] + libvorbis_jll v1.3.7+1
+  [1270edf5] + x264_jll v2021.5.5+0
+  [dfaa095f] + x265_jll v3.5.0+0
+  [0dad84c5] + ArgTools v1.1.1
+  [56f22d72] + Artifacts
+  [2a0f44e3] + Base64
+  [8bf52ea8] + CRC32c
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [f43a241f] + Downloads v1.6.0
+  [7b1f6079] + FileWatching
+  [9fa8497b] + Future
+  [b77e0a4c] + InteractiveUtils
+  [4af54fe1] + LazyArtifacts
+  [b27032c2] + LibCURL v0.6.3
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [ca575930] + NetworkOptions v1.2.0
+  [44cfe95a] + Pkg v1.9.0
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA v0.7.0
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics v1.9.0
+  [4607b0f0] + SuiteSparse
+  [fa267f1f] + TOML v1.0.3
+  [a4e569a6] + Tar v1.10.0
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+  [e66e0078] + CompilerSupportLibraries_jll v1.0.2+0
+  [deac9b47] + LibCURL_jll v7.84.0+0
+  [29816b5a] + LibSSH2_jll v1.10.2+0
+  [c8ffd9c3] + MbedTLS_jll v2.28.2+0
+  [14a3606d] + MozillaCACerts_jll v2022.10.11
+  [4536629a] + OpenBLAS_jll v0.3.21+4
+  [05823500] + OpenLibm_jll v0.8.1+0
+  [efcefdf7] + PCRE2_jll v10.42.0+0
+  [bea87d4a] + SuiteSparse_jll v5.10.1+6
+  [83775a58] + Zlib_jll v1.2.13+0
+  [8e850b90] + libblastrampoline_jll v5.8.0+0
+  [8e850ede] + nghttp2_jll v1.48.0+0
+  [3f19e933] + p7zip_jll v17.4.0+0
+        Info Packages marked with ⌅ have new versions available but compatibility constraints restrict them from upgrading. To see why use `status --outdated -m`
+Precompiling project...
+[32m  ✓ [39m[90mIOCapture[39m
+[32m  ✓ [39m[90mCompat[39m
+[32m  ✓ [39m[90mAbstractFFTs[39m
+[32m  ✓ [39m[90mStaticArraysCore[39m
+[32m  ✓ [39m[90mAbstractPlutoDingetjes[39m
+[32m  ✓ [39m[90mHyperscript[39m
+[32m  ✓ [39m[90mFillArrays[39m
+[32m  ✓ [39m[90mThreadingUtilities[39m
+[32m  ✓ [39m[90mXorg_libXau_jll[39m
+[32m  ✓ [39m[90mMKL_jll[39m
+[32m  ✓ [39m[90mXorg_libXdmcp_jll[39m
+[32m  ✓ [39m[90mExpat_jll[39m
+[32m  ✓ [39m[90mXorg_xtrans_jll[39m
+[32m  ✓ [39m[90mXorg_libpthread_stubs_jll[39m
+[32m  ✓ [39m[90mCompat → CompatLinearAlgebraExt[39m
+[32m  ✓ [39m[90mDiffResults[39m
+[32m  ✓ [39m[90mHostCPUFeatures[39m
+[32m  ✓ [39m[90mScanByte[39m
+[32m  ✓ [39m[90mPolyesterWeave[39m
+[32m  ✓ [39m[90mChainRulesCore[39m
+[32m  ✓ [39m[90mXorg_libxcb_jll[39m
+[32m  ✓ [39m[90mFontconfig_jll[39m
+[32m  ✓ [39m[90mStableHashTraits[39m
+[32m  ✓ [39m[90mAbstractFFTs → AbstractFFTsChainRulesCoreExt[39m
+[32m  ✓ [39m[90mXorg_libX11_jll[39m
+[32m  ✓ [39m[90mDataStructures[39m
+[32m  ✓ [39m[90mAutoma[39m
+[32m  ✓ [39m[90mLogExpFunctions → LogExpFunctionsChainRulesCoreExt[39m
+[32m  ✓ [39m[90mSortingAlgorithms[39m
+[32m  ✓ [39m[90mXorg_libXrender_jll[39m
+[32m  ✓ [39m[90mXorg_libXext_jll[39m
+[32m  ✓ [39m[90mQuadGK[39m
+[32m  ✓ [39m[90mCairo_jll[39m
+[32m  ✓ [39m[90mHarfBuzz_jll[39m
+[32m  ✓ [39m[90mStatsBase[39m
+[32m  ✓ [39m[90mSpecialFunctions[39m
+[32m  ✓ [39m[90mlibass_jll[39m
+[32m  ✓ [39m[90mPango_jll[39m
+[32m  ✓ [39m[90mDiffRules[39m
+[32m  ✓ [39m[90mStaticArrays[39m
+[32m  ✓ [39m[90mDualNumbers[39m
+[32m  ✓ [39m[90mFFMPEG_jll[39m
+[32m  ✓ [39m[90mSpecialFunctions → SpecialFunctionsChainRulesCoreExt[39m
+[32m  ✓ [39m[90mCairo[39m
+[32m  ✓ [39m[90mStaticArrays → StaticArraysStatisticsExt[39m
+[32m  ✓ [39m[90mConstructionBase → ConstructionBaseStaticArraysExt[39m
+[32m  ✓ [39m[90mAdapt → AdaptStaticArraysExt[39m
+[32m  ✓ [39m[90mColorVectorSpace[39m
+[32m  ✓ [39m[90mFFMPEG[39m
+[32m  ✓ [39m[90mGPUArraysCore[39m
+[32m  ✓ [39m[90mHypergeometricFunctions[39m
+[32m  ✓ [39m[90mSetfield[39m
+[32m  ✓ [39m[90mArrayInterface[39m
+[32m  ✓ [39m[90mOffsetArrays[39m
+[32m  ✓ [39m[90mForwardDiff[39m
+[32m  ✓ [39m[90mStructArrays[39m
+[32m  ✓ [39m[90mArrayInterface → ArrayInterfaceGPUArraysCoreExt[39m
+[32m  ✓ [39m[90mArrayInterface → ArrayInterfaceStaticArraysCoreExt[39m
+[32m  ✓ [39m[90mStackViews[39m
+[32m  ✓ [39m[90mPaddedViews[39m
+[32m  ✓ [39m[90mStatsFuns[39m
+[32m  ✓ [39m[90mFFTW[39m
+[32m  ✓ [39m[90mInterpolations[39m
+[32m  ✓ [39m[90mForwardDiff → ForwardDiffStaticArraysExt[39m
+[32m  ✓ [39m[90mMosaicViews[39m
+[32m  ✓ [39m[90mStaticArrayInterface[39m
+[32m  ✓ [39m[90mStatsFuns → StatsFunsChainRulesCoreExt[39m
+[32m  ✓ [39m[90mColorSchemes[39m
+[32m  ✓ [39m[90mStaticArrayInterface → StaticArrayInterfaceStaticArraysExt[39m
+[32m  ✓ [39m[90mStaticArrayInterface → StaticArrayInterfaceOffsetArraysExt[39m
+[32m  ✓ [39m[90mGeometryBasics[39m
+[32m  ✓ [39m[90mCloseOpenIntervals[39m
+[32m  ✓ [39mTensors
+[32m  ✓ [39m[90mDistributions[39m
+[32m  ✓ [39m[90mLayoutPointers[39m
+[32m  ✓ [39m[90mParsers[39m
+[32m  ✓ [39m[90mPacking[39m
+[32m  ✓ [39m[90mDistributions → DistributionsChainRulesCoreExt[39m
+[32m  ✓ [39m[90mFreeTypeAbstraction[39m
+[32m  ✓ [39mMaterialModelsBase
+[32m  ✓ [39m[90mStrideArraysCore[39m
+[32m  ✓ [39m[90mJSON[39m
+[32m  ✓ [39m[90mGridLayoutBase[39m
+[32m  ✓ [39m[90mKernelDensity[39m
+[32m  ✓ [39m[90mPolyester[39m
+[32m  ✓ [39m[90mColorBrewer[39m
+[32m  ✓ [39mPlutoUI
+[32m  ✓ [39m[90mPlotUtils[39m
+[32m  ✓ [39m[90mMathTeXEngine[39m
+[32m  ✓ [39m[90mVectorizationBase[39m
+[32m  ✓ [39m[90mSLEEFPirates[39m
+[32m  ✓ [39m[90mImageCore[39m
+[32m  ✓ [39m[90mJpegTurbo[39m
+[32m  ✓ [39m[90mSixel[39m
+[32m  ✓ [39m[90mImageBase[39m
+[32m  ✓ [39m[90mPNGFiles[39m
+[32m  ✓ [39m[90mImageAxes[39m
+[32m  ✓ [39m[90mImageMetadata[39m
+[32m  ✓ [39m[90mNetpbm[39m
+[32m  ✓ [39m[90mTiffImages[39m
+[32m  ✓ [39m[90mLoopVectorization[39m
+[32m  ✓ [39m[90mImageIO[39m
+[32m  ✓ [39m[90mLoopVectorization → SpecialFunctionsExt[39m
+[32m  ✓ [39m[90mLoopVectorization → ForwardDiffExt[39m
+[32m  ✓ [39m[90mTriangularSolve[39m
+[32m  ✓ [39m[90mRecursiveFactorization[39m
+[32m  ✓ [39mNewton
+[32m  ✓ [39mEduMaterialModels
+[32m  ✓ [39m[90mMakie[39m
+[32m  ✓ [39mCairoMakie
+  110 dependencies successfully precompiled in 295 seconds. 135 already precompiled.

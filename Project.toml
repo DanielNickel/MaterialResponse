@@ -1,0 +1,9 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+MaterialModelsBase = "af893363-701d-44dc-8b1e-d9a2c129bfc9"
+Newton = "83aa5b51-0588-403c-85e4-434ec185aae7"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+Tensors = "48a634ad-e948-5137-8d70-aa71f2a747f4"
+Waveforms = "cb13b1c6-351e-5134-b3ad-d6a530956a82"
