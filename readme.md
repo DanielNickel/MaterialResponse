@@ -1,5 +1,8 @@
 # CA2 readme
 
+This program is written by my lecturer https://github.com/KnutAM.
+
+
 ## Getting started
 With the included manifest, it should work to do run 
 ```julia
